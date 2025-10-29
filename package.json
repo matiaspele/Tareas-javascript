@@ -1,0 +1,20 @@
+{
+  "name": "tareas-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiaspele/Tareas-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiaspele/Tareas-javascript/issues"
+  },
+  "homepage": "https://github.com/matiaspele/Tareas-javascript#readme"
+}
