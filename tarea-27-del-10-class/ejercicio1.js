@@ -77,4 +77,4 @@ const productos = [
 const productosDisponibles = Producto.productosConStock(productos);
 
 
-console.log(productosDisponibles);
+console.log(productosDisponibles.map(p => p.nombre));
